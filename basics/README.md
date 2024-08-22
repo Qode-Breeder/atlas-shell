@@ -1,4 +1,4 @@
-# Atlas Shell
+# Shell Basics
 
 ## Requirements
 

@@ -17,7 +17,7 @@
 - `grep`
 - `tr`
 - `rev`
-- `cut`
+- `cut`l
 - `passwd (5)` (i.e. `man 5 passwd`)
 ## Learning Objectives
 At the end of this project, you are expected to be able to `explain to anyone`, without the help of Google:
